@@ -1,3 +1,3 @@
-# MSDS 2026 Python Programming Bridging Session
+# MAIDA 2027 Python Programming Essentials
 
-Code for MSDS 2026 bridging course: Python Programming
+Code for MAIDA 2027 bridging course for Python Programming
